@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "aattila@gmail.com",
+    "longName": "HungarianText",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/scrnshot1.png",
+                "menuIcon": true,
+                "name": "IMAGE_SCRSHOT1",
+                "type": "png"
+            },
+            {
+                "file": "fonts/gotham_light_hu.ttf",
+                "name": "GOTHAM_LIGHT_34",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "HungarianText",
+    "uuid": "32660847-48f4-4d35-968f-238c31d88769",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
